@@ -1,32 +1,32 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "DISHA Flight Controller",
+    "desc": "India’s first indigenous flight controller using the VEGA processor, featuring auto ESC tuning, real-time display, and secure mobile data access via WiFi.",
+    "image": "vega",
+    "category": "UAV",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "#",
+      "code": "#"
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "name": "Ros2_cam_project",
+    "desc": "Developed the ros 2 node for camera video conversion.",
     "image": "sppuprepandroid",
-    "category": "android",
+    "category": "ROS2",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "view": "#",
+      "code": "https://github.com/Harshpanday101/ROS2_Cam_Project"
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "name": "Financial Agent",
+    "desc": "Financial Agent which will give you live predection about the stocks with the help of Agentic AI",
     "image": "newsboxandroid",
-    "category": "android",
+    "category": "AI",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7289322240603471873/",
+      "code": "https://github.com/Harshpanday101/FinancialAgent"
     }
   },
   {

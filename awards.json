@@ -1,0 +1,73 @@
+[
+    {
+        "name": "DISHA - Indigenous Flight Controller",
+        "desciption": "Developed India’s first indigenous flight controller ‘DISHA’ using the VEGA processor. Features include automatic ESC tuning, inbuilt display for real-time data, and WiFi module integration. Secure and ideal for defense applications.",
+        
+        "image": "https://yourdomain.com/images/disha.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Internship at IIT Guwahati - Robotics Lab",
+        "desciption": "Worked under Prof. P.K. Das on drone swarm systems, autonomous navigation, and FOD detection. Achieved 97% accuracy in drone coordination and 92% accuracy in FOD detection using machine learning.",
+        "image": "https://yourdomain.com/images/iitg_internship.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Falcon Scann - FOD Detection Drone",
+        "desciption": "Developed a drone that scans airport runways for Foreign Object Debris using ML and computer vision. Integrated with QGroundControl and real-time mobile app feed.",
+        "image": "https://yourdomain.com/images/falcon_scann.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Medi Falcon - Medical Emergency Drone",
+        "desciption": "A drone system to deliver medical aid in emergencies. Uses LoRa with Raspberry Pi to transmit vitals like heart rate and SpO2. Real-time monitoring through Jetson Nano.",
+        "image": "https://yourdomain.com/images/medi_falcon.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Crack Detection Drone for Railways",
+        "desciption": "Drone with ML algorithms to detect cracks or abnormalities in railway tracks. Sends alerts to base station. Integrated with prior drone system for enhanced safety applications.",
+        "image": "https://yourdomain.com/images/crack_detection.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Apple Orchard Drone - Himachal Project",
+        "desciption": "Developed a drone-based system for apple orchard management in Himachal Pradesh. Focus on health monitoring, nutrient/pest management, yield prediction, and data-driven marketing.",
+        "image": "https://yourdomain.com/images/apple_orchard.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "HackWars Finalist",
+        "desciption": "Qualified as a finalist in the HackWars coding competition with a real-time data monitoring solution using Python, LoRa, and Jetson Nano.",
+        "image": "https://yourdomain.com/images/hackwars.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Winner at GCON Vegathon, ISB Innoventure & InnoWave",
+        "desciption": "Secured 1st position at multiple national-level robotics competitions showcasing autonomous drones and intelligent UAV systems.",
+        "image": "https://yourdomain.com/images/competitions.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Zinnovatio 2nd Place",
+        "desciption": "Won 2nd place in Zinnovatio with a drone-based innovation, receiving a cash prize, medals, and subscriptions. Demonstrated system integration and automation skills.",
+        "image": "https://yourdomain.com/images/zinnovatio.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    },
+    {
+        "name": "Patent: VEGA Flight Controller",
+        "desciption": "Filed a patent for a custom VEGA flight controller design with advanced features tailored for autonomous UAV operations.",
+        "image": "https://yourdomain.com/images/patent.jpg",
+        "linkedin": "https://www.linkedin.com/in/harsh-panday-931947250/",
+        "github": "https://github.com/Harshpanday"
+    }
+]

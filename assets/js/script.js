@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["Robotics", "UAV's Building", "Machine Learning", "Artificial Intelligence", "IOT"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -80,6 +80,7 @@ var typed = new Typed(".typing-text", {
 // <!-- typed js effect ends -->
 
 async function fetchData(type = "skills") {
+    
     let response
     type === "skills" ?
         response = await fetch("skills.json")
