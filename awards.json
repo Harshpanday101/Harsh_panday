@@ -1,0 +1,44 @@
+[
+    {
+        "name": "IIT Guwahati Gcon-Vegathon",
+        "desciption": "Developed India's First Indigenious Flight Controller based on vega Processor and also got the Patient grant for the same and Securing the first position for the same",
+
+        "image": "iitg.png"
+    },
+    {
+        "name": "ISB Mohali TEP Program",
+        "desciption": "Presented our Defense Drone Project at TEP ISB, securing first position and receiving an incredible startup opportunity for further development!",
+        "image": "isb.png"
+    },
+    {
+        "name": "Plaksha University - Hack Summit",
+        "desciption": "Secured first position at Hack Summit with our FOD Detection Drone Project, designed to identify and alert about foreign object debris on runways using real-time image processing and autonomous drone tech.",
+        "image": "hack.png"
+    },
+
+    {
+        "name": "Project Exhibition",
+        "desciption": "Won the Project Exhibition in 3rd Year CSE with our Autonomous Delivery Drone, featuring enhanced delivery accuracy using RTK-based navigation.",
+        "image": "exhibition.png"
+    },
+    {
+        "name": "Tekathon 2/3",
+        "desciption": "Won Tekathon 2.0 and 3.0 in our respective tracks, earning the opportunity to represent our college at Smart India Hackathon (SIH) through internal competitions.",
+        "image": "tekathon.png"
+    },
+    {
+        "name": "CU - Zinnovatio 1",
+        "desciption": "Achieved second position at Zinnovatio 1 with our Delivery Drone Project, aimed at revolutionizing last-mile delivery through autonomous aerial logistics.",
+        "image": "zino.png"
+    },
+    {
+        "name": "Project Expo CSE-3rd year",
+        "desciption": "We participated in the Project Expo with our Autonomous Delivery Drone featuring high-precision RTK-based navigation for accurate and reliable deliveries. The competition began in December and spanned five rigorous stages, with over 5,537 projects competing. After months of evaluations and presentations, our project secured the second position, standing out for its innovation, technical excellence, and real-world impact.",
+        "image": "expo.png"
+    },
+    {
+        "name": "Shee-Boss",
+        "desciption": "Secured second position at Shee-Boss for our innovative tech solution, standing out among top entries for impact and execution.",
+        "image": "shee.png"
+    }
+]

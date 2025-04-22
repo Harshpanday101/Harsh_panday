@@ -1,0 +1,75 @@
+[
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/?size=100&id=TINShjDQ0nw4&format=png&color=000000"
+    },
+    {
+        "name": "AI",
+        "icon": "https://img.icons8.com/?size=100&id=114322&format=png&color=000000"
+    },
+    {
+        "name": "ML",
+        "icon": "https://img.icons8.com/?size=100&id=95eXjNBPFnhH&format=png&color=000000"
+    },
+    {
+        "name": "Raspberry Pi",
+        "icon": "https://img.icons8.com/?size=100&id=T6XctcOVwqAb&format=png&color=000000"
+    },
+    {
+        "name": "Jetson",
+        "icon": "https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000"
+    },
+    {
+        "name": "Arduino",
+        "icon": "https://img.icons8.com/?size=100&id=13444&format=png&color=000000"
+    },
+    {
+        "name": "Ardupilot",
+        "icon": "./assets/images/skills/ardu_logo_dark.png"
+
+    },
+    {
+        "name": "Qgroundcontrol",
+        "icon": "./assets/images/skills/f408i90ksk5kr3r83avnnbe299-def68063471be67f959a46fd94a84ba2%20(1).png"
+    },
+    {
+        "name": "Processing",
+        "icon": "./assets/images/skills/computer-icons-process-clip-art-step-process-8c88b1504bb66967d18b947ef6131e76.png"
+    },
+    {
+        "name": "Mavlink",
+        "icon": "./assets/images/skills/up9963mt821c4a67vs3l0f2ri1.png"
+    },
+    {
+        "name": "OpeCV",
+        "icon": "https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000"
+    },
+    {
+        "name": "YOLO",
+        "icon": "https://img.icons8.com/?size=100&id=aGJ1gpQ4cowo&format=png&color=000000"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/100/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/100/ffffff/github.png"
+    }
+]

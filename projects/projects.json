@@ -1,0 +1,102 @@
+[
+  {
+    "name": "DISHA Flight Controller",
+    "desc": "India’s first indigenous flight controller using the VEGA processor, featuring auto ESC tuning, real-time display, and secure mobile data access via WiFi.",
+    "image": "iitg",
+    "category": "UAV",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Ros2_cam_project",
+    "desc": "Developed the ros 2 node for camera video conversion.",
+    "image": "ros2_cam",
+    "category": "ROS2",
+    "links": {
+      "view": "https://www.linkedin.com/posts/harshpanday101_ros2-github-opensource-activity-7276302924601769984-RUvk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxs3JcBn_E2lLCpNoTiYhb0m8J6ZlK-vm4",
+      "code": "https://github.com/Harshpanday101/ROS2_camera_Project.git"
+    }
+  },
+  {
+    "name": "Financial Agent",
+    "desc": "Financial Agent which will give you live predection about the stocks with the help of Agentic AI",
+    "image": "agentic",
+    "category": "AI",
+    "links": {
+      "view": "https://www.linkedin.com/posts/harshpanday101_ai-agenticai-stockprediction-activity-7289322240603471873-sMWw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxs3JcBn_E2lLCpNoTiYhb0m8J6ZlK-vm4",
+      "code": "https://github.com/Harshpanday101/FinancialAgent.git"
+    }
+  },
+  {
+    "name": "Target Detection using YOLO",
+    "desc": "A target-tracking drone system designed to detect and autonomously follow moving objects in real-time using onboard vision and AI.",
+    "image": "yolo_tar",
+    "category": "AI",
+    "links": {
+      "view": "https://www.linkedin.com/posts/harshpanday101_defensetech-autonomousdrones-ai-activity-7307827110855811073-A0dp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxs3JcBn_E2lLCpNoTiYhb0m8J6ZlK-vm4",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Open-CV based Color detection",
+    "desc": "An OpenCV-based color detection system capable of identifying and tracking specific colors in real-time using computer vision.",
+    "image": "open_cv_color",
+    "category": "ML",
+    "links": {
+      "view": "https://www.linkedin.com/posts/harshpanday101_computervision-drones-opencv-activity-7298048696024186880-cJRG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxs3JcBn_E2lLCpNoTiYhb0m8J6ZlK-vm4",
+      "code": "https://github.com/Harshpanday101/Color_detection_using_opencv.git"
+    }
+  },
+  {
+    "name": "Medical Delivery Drone",
+    "desc": " An autonomous Medical Delivery Drone designed to transport critical supplies to emergency locations with speed, precision and Autonomously.",
+    "image": "auto_delivery",
+    "category": "UAV",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Autonomous Drone",
+    "desc": "An Autonomous Delivery Drone engineered for precise, contactless last-mile deliveries using advanced navigation and obstacle avoidance systems.",
+    "image": "auto",
+    "category": "UAV",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Harshpanday101/Autonomous-Drone-.git"
+    }
+  },
+  {
+    "name": "Senital X",
+    "desc": "Sentinel X is an advanced surveillance drone designed for real-time monitoring and threat detection in high-risk and remote areas.",
+    "image": "seni",
+    "category": "UAV",
+    "links": {
+      "view": "https://www.linkedin.com/posts/harshpanday101_sentinelx-mahakumbh2025-aiforgood-activity-7307037981708537856-4xrr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxs3JcBn_E2lLCpNoTiYhb0m8J6ZlK-vm4",
+      "code": "https://github.com/Harshpanday101/SentinelX.git"
+    }
+  },
+  {
+    "name": "Fertilizer Quality and Composition Analyzer",
+    "desc": "A Fertilizer Quality and Composition Analyzer designed to assess nutrient content and purity levels using sensor-based analysis for smarter agricultural practices.",
+    "image": "ferti",
+    "category": "ML",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "FOD detection Drone",
+    "desc": "Developed a Drone which will detect the Foreign Object on runway Autonomously.",
+    "image": "ferti",
+    "category": "ML",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Harshpanday101/Black-Falcon.git"
+    }
+  }
+]
