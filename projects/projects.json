@@ -92,7 +92,7 @@
   {
     "name": "FOD detection Drone",
     "desc": "Developed a Drone which will detect the Foreign Object on runway Autonomously.",
-    "image": "ferti",
+    "image": "fod",
     "category": "ML",
     "links": {
       "view": "#",
