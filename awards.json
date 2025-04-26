@@ -40,5 +40,10 @@
         "name": "Shee-Boss",
         "desciption": "Secured second position at Shee-Boss for our innovative tech solution, standing out among top entries for impact and execution.",
         "image": "shee.png"
+    },
+    {
+        "name": "Achiever Award",
+        "desciption": "Recipient of the Achiever Award at Chandigarh University, recognizing excellence in innovation and leadership.",
+        "image": "achi.png"
     }
 ]
